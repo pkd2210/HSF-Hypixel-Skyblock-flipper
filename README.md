@@ -1,1 +1,1 @@
-# HSF---Hypixel-Skyblock-flipper
+# HSF-Hypixel-Skyblock-flipper
